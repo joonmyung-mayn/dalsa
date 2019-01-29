@@ -6,3 +6,6 @@ Dalsa Project
 ## 기술
   - React
   - Django
+
+## Feature/Main
+   - 메인 페이지 작업 중...
